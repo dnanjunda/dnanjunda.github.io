@@ -1,3 +1,26 @@
+## Dhanush Nanjunda Reddy
+
+Welcome to my personal website! I'm a 2nd year Computer Science major and Cognitive Science minor at UC San Diego. My current interests include cybersecurity and machine learning. I enjoy contributing to the community through any work I do, whether that be student organizations, research, or personal projects. 
+
+### Coursework
+
+1. CSE 100
+2. CSE 105
+3. CSE 198
+4. CSE 30
+
+### Favorite Sports
+
+- Soccer
+- Basketball
+- Football
+- Baseball
+
+### Current Tasks
+
+- [x] Finish engineer statement
+- [ ] Finish Lab 1
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/dnanjunda/cse110-lab1/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
