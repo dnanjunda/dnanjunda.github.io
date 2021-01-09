@@ -1,25 +1,43 @@
 ## Dhanush Nanjunda Reddy
 
-Welcome to my personal website! I'm a 2nd year Computer Science major and Cognitive Science minor at UC San Diego. My current interests include cybersecurity and machine learning. I enjoy contributing to the community through any work I do, whether that be student organizations, research, or personal projects. 
+Welcome to my personal website! I'm a 2nd year Computer Science major and Cognitive Science student at UC San Diego. My current interests include **cybersecurity** and **machine learning**. I enjoy contributing to the community through any work I do, whether that be student organizations, research, or personal projects. 
 
-### Coursework
+### Education
+#### University of California, San Diego
+#### B.S., Computer Science
+#### Minor in Cognitive Science
 
-1. CSE 100
-2. CSE 105
-3. CSE 198
-4. CSE 30
+*September 2019-June 2022*
 
-### Favorite Sports
+- Provost Honors every quarter
+- Relevant Coursework
+  - [x] Advanced Data Structures
+  - [x] Software Tools and Techniques Lab
+  - [x] Theory of Computability
+  - [x] Computer Organization and Systems Programming
+  - [x] ~~Linear Algebra~~
+  - [x] ~~Statistical Methods~~
+  - [ ] Intro to Machine Learning
+  - [ ] Software Engineering
+  
+#### Amador Valley High School
+#### High School Diploma
 
-- Soccer
-- Basketball
-- Football
-- Baseball
+*September 2015-May 2019*
 
-### Current Tasks
+1. National AP Scholar
 
-- [x] Finish engineer statement
-- [ ] Finish Lab 1
+### Technical Skills
+
+- macOS, Windows, Linux
+- MongoDB
+- Firebase
+- Selenium
+- Git, GitHub
+- Bash
+- Java, C, C++, Python, Javascript, Kotlin
+- ReactJS
+- HTML, CSS
 
 ## Welcome to GitHub Pages
 
