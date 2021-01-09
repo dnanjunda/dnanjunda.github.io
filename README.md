@@ -1,5 +1,3 @@
-## Dhanush Nanjunda Reddy
-
 ![image](images/Dhanush_Image.png)
 
 [Link to Image](images/Dhanush_Image.png)
