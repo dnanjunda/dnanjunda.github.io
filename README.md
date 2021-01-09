@@ -1,6 +1,13 @@
 ## Dhanush Nanjunda Reddy
 
-Welcome to my personal website! I'm a 2nd year Computer Science major and Cognitive Science student at UC San Diego. My current interests include **cybersecurity** and **machine learning**. I enjoy contributing to the community through any work I do, whether that be student organizations, research, or personal projects. 
+![image](images/Dhanush_Image.png)
+
+[Link to Image](images/Dhanush_Image.png)
+
+Welcome to my personal website! I'm a 2nd year Computer Science major and Cognitive Science student at UC San Diego. My current interests include **cybersecurity** and **machine learning**. I enjoy contributing to the community through any work I do, whether that be student organizations, research, or personal projects. Check out my [Github](https://github.com/dnanjunda) to see some of the projects that I have worked on.
+
+My favorite quote is
+> The moment you give up is the moment you let someone else win.
 
 [Education](https://github.com/dnanjunda/cse110-lab1#education)
 
@@ -42,6 +49,8 @@ Welcome to my personal website! I'm a 2nd year Computer Science major and Cognit
 - Java, C, C++, Python, Javascript, Kotlin
 - ReactJS
 - HTML, CSS
+
+The theme of this website is saved in the Jekyll `_config.yml` configuration file. Use `git clone` to get this repository on your local machine.
 
 ## Welcome to GitHub Pages
 
