@@ -24,10 +24,11 @@ My favorite quote is
   - [x] Software Tools and Techniques Lab
   - [x] Theory of Computability
   - [x] Computer Organization and Systems Programming
-  - [x] ~~Linear Algebra~~
-  - [x] ~~Statistical Methods~~
   - [ ] Intro to Machine Learning
   - [ ] Software Engineering
+  - Math Courses
+    - [x] ~~Linear Algebra~~
+    - [x] ~~Statistical Methods~~
   
 #### Amador Valley High School
 #### High School Diploma
