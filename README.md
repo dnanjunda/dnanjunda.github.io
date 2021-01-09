@@ -11,7 +11,7 @@ My favorite quote is
 
 [Technical Skills](https://github.com/dnanjunda/dnanjunda.github.io#technical-skills)
 
-### Education
+## Education
 #### University of California, San Diego
 #### B.S., Computer Science
 #### Minor in Cognitive Science
@@ -36,7 +36,7 @@ My favorite quote is
 
 1. National AP Scholar
 
-### Technical Skills
+## Technical Skills
 
 - macOS, Windows, Linux
 - MongoDB
