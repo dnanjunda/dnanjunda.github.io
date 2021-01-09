@@ -9,9 +9,9 @@ Welcome to my personal website! I'm a 2nd year Computer Science major and Cognit
 My favorite quote is
 > The moment you give up is the moment you let someone else win.
 
-[Education](https://github.com/dnanjunda/cse110-lab1#education)
+[Education](https://github.com/dnanjunda/dnanjunda.github.io#education)
 
-[Technical Skills](https://github.com/dnanjunda/cse110-lab1#technical-skills)
+[Technical Skills](https://github.com/dnanjunda/dnanjunda.github.io#technical-skills)
 
 ### Education
 #### University of California, San Diego
