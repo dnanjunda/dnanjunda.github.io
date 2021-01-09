@@ -2,6 +2,10 @@
 
 Welcome to my personal website! I'm a 2nd year Computer Science major and Cognitive Science student at UC San Diego. My current interests include **cybersecurity** and **machine learning**. I enjoy contributing to the community through any work I do, whether that be student organizations, research, or personal projects. 
 
+[Education](https://github.com/dnanjunda/cse110-lab1#education)
+
+[Technical Skills](https://github.com/dnanjunda/cse110-lab1#technical-skills)
+
 ### Education
 #### University of California, San Diego
 #### B.S., Computer Science
