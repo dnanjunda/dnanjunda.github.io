@@ -2,7 +2,7 @@
 
 [Link to Image](images/Dhanush_Image.png)
 
-Welcome to my personal website! I'm a 2nd year Computer Science major and Cognitive Science student at UC San Diego. My current interests include **cybersecurity** and **machine learning**. I enjoy contributing to the community through any work I do, whether that be student organizations, research, or personal projects. Check out my [Github](https://github.com/dnanjunda) to see some of the projects that I have worked on.
+Welcome to my personal website! I'm a 2nd year Computer Science student at UC San Diego. My current interests include **cybersecurity** and **machine learning**. I enjoy contributing to the community through any work I do, whether that be student organizations, research, or personal projects. Check out my [Github](https://github.com/dnanjunda) to see some of the projects that I have worked on.
 
 My favorite quote is
 > The moment you give up is the moment you let someone else win.
